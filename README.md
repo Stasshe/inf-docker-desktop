@@ -1,5 +1,5 @@
 # inf-docker-desktop
-
+Infinity のフォークしたやつ。
 ## 何これ
 
 これはDockerを使ってGUI環境でUbuntuを触るために作成されたdocker imageです。
